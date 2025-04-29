@@ -1,3 +1,5 @@
+# my first time using python
+
 import serial
 import sounddevice as sd
 import numpy as np
